@@ -1,6 +1,7 @@
 let inquirer = require("inquirer");
 let selector = require("./lib/selector.js")
 
+
 inquirer
     .prompt([
         {
@@ -30,7 +31,7 @@ inquirer
             selector.viewEmployees();
         }
         else if(answers.optionSelection === "add a department"){
-            selector.AddDepartment();
+            selector.addDepartment();
         }
         else if(answers.optionSelection === "add a role"){
             selector.addRole();
