@@ -21,7 +21,7 @@ inquirer
 
     .then((answers) => {
         if(answers.optionSelection === "view all departments"){
-            selector.viewDepart();
+            selector.viewDepartment();
         }
         else if(answers.optionSelection === "view all roles"){
             selector.viewRole();
