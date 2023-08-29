@@ -5,6 +5,7 @@ This is a database that users can input, view, and alter information within.
 
 ## Usage
 Users will be given a list of options. they can select one, and then follow the prompts to perform their desired action.
+A demonstration video can be found at https://drive.google.com/file/d/1tfS4sQsAXg6G2BCauSEuE8SS5qQJ--f2/view?usp=drive_link
 
 ## Credits
 I would like to thank the instructional staff and tutors who helped me figure out this project
